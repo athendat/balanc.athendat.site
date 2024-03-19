@@ -1,0 +1,19 @@
+[{
+    "id": "1",
+    "icon": "assets/images/payment/enzona.webp",
+    "name": "ENZONA",
+    "fee": 0.025,
+    "active": true
+}, {
+    "id": "2",
+    "icon": "assets/images/payment/transfermovil.webp",
+    "name": "Transfermovil",
+    "fee": 0.025,
+    "active": true
+}, {
+    "id": "3",
+    "icon": "assets/images/payment/qvapay.png",
+    "name": "QvaPay",
+    "fee": 0,
+    "active": false
+}]

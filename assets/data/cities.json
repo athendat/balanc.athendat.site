@@ -1,0 +1,505 @@
+[{
+    "state": "Pinar del Rio",
+    "city": "Sandino"
+}, {
+    "state": "Pinar del Rio",
+    "city": "Mantua"
+}, {
+    "state": "Pinar del Rio",
+    "city": "Minas de Matahambre"
+}, {
+    "state": "Pinar del Rio",
+    "city": "Viñales"
+}, {
+    "state": "Pinar del Rio",
+    "city": "La Palma"
+}, {
+    "state": "Pinar del Rio",
+    "city": "Los Palacios"
+}, {
+    "state": "Pinar del Rio",
+    "city": "Consolación del Sur"
+}, {
+    "state": "Pinar del Rio",
+    "city": "Pinar del Río"
+}, {
+    "state": "Pinar del Rio",
+    "city": "San Luis"
+}, {
+    "state": "Pinar del Rio",
+    "city": "San Juan y Martínez"
+}, {
+    "state": "Pinar del Rio",
+    "city": "Guane"
+}, {
+    "state": "Artemisa",
+    "city": "Bahía Honda"
+}, {
+    "state": "Artemisa",
+    "city": "Mariel"
+}, {
+    "state": "Artemisa",
+    "city": "Guanajay"
+}, {
+    "state": "Artemisa",
+    "city": "Caimito"
+}, {
+    "state": "Artemisa",
+    "city": "Bauta"
+}, {
+    "state": "Artemisa",
+    "city": "San Antonio de los Baños"
+}, {
+    "state": "Artemisa",
+    "city": "Güira de Melena"
+}, {
+    "state": "Artemisa",
+    "city": "Alquízar"
+}, {
+    "state": "Artemisa",
+    "city": "Artemisa"
+}, {
+    "state": "Artemisa",
+    "city": "Candelaria"
+}, {
+    "state": "Artemisa",
+    "city": "San Cristóbal"
+}, {
+    "state": "La Habana",
+    "city": "Playa"
+}, {
+    "state": "La Habana",
+    "city": "Plaza de la Revolución"
+}, {
+    "state": "La Habana",
+    "city": "Centro Habana"
+}, {
+    "state": "La Habana",
+    "city": "La Habana Vieja"
+}, {
+    "state": "La Habana",
+    "city": "Regla"
+}, {
+    "state": "La Habana",
+    "city": "La Habana del Este"
+}, {
+    "state": "La Habana",
+    "city": "Guanabacoa"
+}, {
+    "state": "La Habana",
+    "city": "San Miguel del Padrón"
+}, {
+    "state": "La Habana",
+    "city": "Diez de Octubre"
+}, {
+    "state": "La Habana",
+    "city": "Cerro"
+}, {
+    "state": "La Habana",
+    "city": "Marianao"
+}, {
+    "state": "La Habana",
+    "city": "La Lisa"
+}, {
+    "state": "La Habana",
+    "city": "Boyeros"
+}, {
+    "state": "La Habana",
+    "city": "Arroyo Naranjo"
+}, {
+    "state": "La Habana",
+    "city": "Cotorro"
+}, {
+    "state": "Mayabeque",
+    "city": "Bejucal"
+}, {
+    "state": "Mayabeque",
+    "city": "San José de las Lajas"
+}, {
+    "state": "Mayabeque",
+    "city": "Jaruco"
+}, {
+    "state": "Mayabeque",
+    "city": "Santa Cruz del Norte"
+}, {
+    "state": "Mayabeque",
+    "city": "Madruga"
+}, {
+    "state": "Mayabeque",
+    "city": "Nueva Paz"
+}, {
+    "state": "Mayabeque",
+    "city": "San Nicolás"
+}, {
+    "state": "Mayabeque",
+    "city": "Güines"
+}, {
+    "state": "Mayabeque",
+    "city": "Melena del Sur"
+}, {
+    "state": "Mayabeque",
+    "city": "Batabanó"
+}, {
+    "state": "Mayabeque",
+    "city": "Quivicán"
+}, {
+    "state": "Matanzas",
+    "city": "Matanzas"
+}, {
+    "state": "Matanzas",
+    "city": "Cárdenas"
+}, {
+    "state": "Matanzas",
+    "city": "Martí"
+}, {
+    "state": "Matanzas",
+    "city": "Colón"
+}, {
+    "state": "Matanzas",
+    "city": "Perico"
+}, {
+    "state": "Matanzas",
+    "city": "Jovellanos"
+}, {
+    "state": "Matanzas",
+    "city": "Pedro Betancourt"
+}, {
+    "state": "Matanzas",
+    "city": "Limonar"
+}, {
+    "state": "Matanzas",
+    "city": "Unión de Reyes"
+}, {
+    "state": "Matanzas",
+    "city": "Ciénaga de Zapata"
+}, {
+    "state": "Matanzas",
+    "city": "Jagüey Grande"
+}, {
+    "state": "Matanzas",
+    "city": "Calimete"
+}, {
+    "state": "Matanzas",
+    "city": "Los Arabos"
+}, {
+    "state": "Villa Clara",
+    "city": "Corralillo"
+}, {
+    "state": "Villa Clara",
+    "city": "Quemado de Güines"
+}, {
+    "state": "Villa Clara",
+    "city": "Sagua la Grande"
+}, {
+    "state": "Villa Clara",
+    "city": "Encrucijada"
+}, {
+    "state": "Villa Clara",
+    "city": "Camajuaní"
+}, {
+    "state": "Villa Clara",
+    "city": "Caibarién"
+}, {
+    "state": "Villa Clara",
+    "city": "Remedios"
+}, {
+    "state": "Villa Clara",
+    "city": "Placetas"
+}, {
+    "state": "Villa Clara",
+    "city": "Santa Clara"
+}, {
+    "state": "Villa Clara",
+    "city": "Cifuentes"
+}, {
+    "state": "Villa Clara",
+    "city": "Santo Domingo"
+}, {
+    "state": "Villa Clara",
+    "city": "Ranchuelo"
+}, {
+    "state": "Villa Clara",
+    "city": "Manicaragua"
+}, {
+    "state": "Cienfuegos",
+    "city": "Aguada de Pasajeros"
+}, {
+    "state": "Cienfuegos",
+    "city": "Rodas"
+}, {
+    "state": "Cienfuegos",
+    "city": "Palmira"
+}, {
+    "state": "Cienfuegos",
+    "city": "Lajas"
+}, {
+    "state": "Cienfuegos",
+    "city": "Cruces"
+}, {
+    "state": "Cienfuegos",
+    "city": "Cumanayagua"
+}, {
+    "state": "Cienfuegos",
+    "city": "Cienfuegos"
+}, {
+    "state": "Cienfuegos",
+    "city": "Abreus"
+}, {
+    "state": "Sancti Spíritus",
+    "city": "Yaguajay"
+}, {
+    "state": "Sancti Spíritus",
+    "city": " Jatibonico"
+}, {
+    "state": "Sancti Spíritus",
+    "city": " Taguasco"
+}, {
+    "state": "Sancti Spíritus",
+    "city": " Cabaiguán"
+}, {
+    "state": "Sancti Spíritus",
+    "city": "Fomento"
+}, {
+    "state": "Sancti Spíritus",
+    "city": " Trinidad"
+}, {
+    "state": "Sancti Spíritus",
+    "city": " Sancti Spíritus"
+}, {
+    "state": "Sancti Spíritus",
+    "city": " La Sierpe"
+}, {
+    "state": "Ciego de Ávila",
+    "city": "Chambas"
+}, {
+    "state": "Ciego de Ávila",
+    "city": "Morón"
+}, {
+    "state": "Ciego de Ávila",
+    "city": "Bolivia"
+}, {
+    "state": "Ciego de Ávila",
+    "city": "Primero de Enero"
+}, {
+    "state": "Ciego de Ávila",
+    "city": "Ciro Redondo"
+}, {
+    "state": "Ciego de Ávila",
+    "city": "Florencia"
+}, {
+    "state": "Ciego de Ávila",
+    "city": "Majagua"
+}, {
+    "state": "Ciego de Ávila",
+    "city": "Ciego de Ávila"
+}, {
+    "state": "Ciego de Ávila",
+    "city": "Venezuela"
+}, {
+    "state": "Ciego de Ávila",
+    "city": "Baraguá"
+}, {
+    "state": "Camagüey",
+    "city": "Carlos Manuel de Céspedes"
+}, {
+    "state": "Camagüey",
+    "city": "Esmeralda"
+}, {
+    "state": "Camagüey",
+    "city": "Sierra de Cubitas"
+}, {
+    "state": "Camagüey",
+    "city": "Minas"
+}, {
+    "state": "Camagüey",
+    "city": "Nuevitas"
+}, {
+    "state": "Camagüey",
+    "city": "Guáimaro"
+}, {
+    "state": "Camagüey",
+    "city": "Sibanicú"
+}, {
+    "state": "Camagüey",
+    "city": "Camagüey"
+}, {
+    "state": "Camagüey",
+    "city": "Florida"
+}, {
+    "state": "Camagüey",
+    "city": "Vertientes"
+}, {
+    "state": "Camagüey",
+    "city": "Jimaguayú"
+}, {
+    "state": "Camagüey",
+    "city": "Najasa"
+}, {
+    "state": "Camagüey",
+    "city": "Santa Cruz del Sur"
+}, {
+    "state": "Las Tunas",
+    "city": "Manatí"
+}, {
+    "state": "Las Tunas",
+    "city": "Puerto Padre"
+}, {
+    "state": "Las Tunas",
+    "city": "Jesús Menéndez"
+}, {
+    "state": "Las Tunas",
+    "city": "Majibacoa"
+}, {
+    "state": "Las Tunas",
+    "city": "Las Tunas"
+}, {
+    "state": "Las Tunas",
+    "city": "Jobabo"
+}, {
+    "state": "Las Tunas",
+    "city": "Colombia"
+}, {
+    "state": "Las Tunas",
+    "city": "Amancio "
+}, {
+    "state": "Holguín",
+    "city": "Gibara"
+}, {
+    "state": "Holguín",
+    "city": "Rafael Freyre"
+}, {
+    "state": "Holguín",
+    "city": "Banes"
+}, {
+    "state": "Holguín",
+    "city": "Antilla"
+}, {
+    "state": "Holguín",
+    "city": "Báguanos"
+}, {
+    "state": "Holguín",
+    "city": "Holguín"
+}, {
+    "state": "Holguín",
+    "city": " Calixto García"
+}, {
+    "state": "Holguín",
+    "city": " Cacocum"
+}, {
+    "state": "Holguín",
+    "city": " Urbano Noris"
+}, {
+    "state": "Holguín",
+    "city": " Cueto"
+}, {
+    "state": "Holguín",
+    "city": " Mayarí"
+}, {
+    "state": "Holguín",
+    "city": " Frank País"
+}, {
+    "state": "Holguín",
+    "city": " Sagua de Tánamo"
+}, {
+    "state": "Holguín",
+    "city": " Moa"
+}, {
+    "state": "Granma",
+    "city": "Río Cauto"
+}, {
+    "state": "Granma",
+    "city": "Cauto Cristo"
+}, {
+    "state": "Granma",
+    "city": "Jiguaní"
+}, {
+    "state": "Granma",
+    "city": "Bayamo"
+}, {
+    "state": "Granma",
+    "city": "Yara"
+}, {
+    "state": "Granma",
+    "city": "Manzanillo"
+}, {
+    "state": "Granma",
+    "city": "Campechuela"
+}, {
+    "state": "Granma",
+    "city": "Media Luna"
+}, {
+    "state": "Granma",
+    "city": "Niquero"
+}, {
+    "state": "Granma",
+    "city": "Pilón"
+}, {
+    "state": "Granma",
+    "city": "Bartolomé Masó"
+}, {
+    "state": "Granma",
+    "city": "Buey Arriba"
+}, {
+    "state": "Granma",
+    "city": "Guisa"
+}, {
+    "state": "Santiago de Cuba",
+    "city": "Contramaestre"
+}, {
+    "state": "Santiago de Cuba",
+    "city": "Mella"
+}, {
+    "state": "Santiago de Cuba",
+    "city": "San Luis"
+}, {
+    "state": "Santiago de Cuba",
+    "city": "Segundo Frente"
+}, {
+    "state": "Santiago de Cuba",
+    "city": "Songo - La Maya"
+}, {
+    "state": "Santiago de Cuba",
+    "city": "Santiago de Cuba"
+}, {
+    "state": "Santiago de Cuba",
+    "city": "Palma Soriano"
+}, {
+    "state": "Santiago de Cuba",
+    "city": "Tercer Frente"
+}, {
+    "state": "Santiago de Cuba",
+    "city": "Guamá"
+}, {
+    "state": "Guantánamo",
+    "city": "El Salvador"
+}, {
+    "state": "Guantánamo",
+    "city": "Manuel Tames"
+}, {
+    "state": "Guantánamo",
+    "city": "Yateras"
+}, {
+    "state": "Guantánamo",
+    "city": "Baracoa"
+}, {
+    "state": "Guantánamo",
+    "city": "Maisí"
+}, {
+    "state": "Guantánamo",
+    "city": "Imías"
+}, {
+    "state": "Guantánamo",
+    "city": "San Antonio del Sur"
+}, {
+    "state": "Guantánamo",
+    "city": "Caimanera"
+}, {
+    "state": "Guantánamo",
+    "city": "Guantánamo"
+}, {
+    "state": "Guantánamo",
+    "city": "Niceto Pérez"
+}, {
+    "state": "Isla de la Juventud",
+    "city": "Isla de la Juventud"
+}]

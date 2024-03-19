@@ -1,0 +1,65 @@
+[{
+    "name": "Pinar del Rio",
+    "abbr": "PR",
+    "code": "+5348"
+}, {
+    "name": "Artemisa",
+    "abbr": "AR",
+    "code": "+5347"
+}, {
+    "name": "La Habana",
+    "abbr": "HB",
+    "code": "+537"
+}, {
+    "name": "Mayabeque",
+    "abbr": "MY",
+    "code": "+5347"
+}, {
+    "name": "Matanzas",
+    "abbr": "MT",
+    "code": "+5345"
+}, {
+    "name": "Villa Clara",
+    "abbr": "VC",
+    "code": "+5342"
+}, {
+    "name": "Cienfuegos",
+    "abbr": "CF",
+    "code": "+5343"
+}, {
+    "name": "Sancti Spíritus",
+    "abbr": "SS",
+    "code": "+5341"
+}, {
+    "name": "Ciego de Ávila",
+    "abbr": "CA",
+    "code": "+5333"
+}, {
+    "name": "Camagüey",
+    "abbr": "CU",
+    "code": "+5332"
+}, {
+    "name": "Las Tunas",
+    "abbr": "TU",
+    "code": "+5331"
+}, {
+    "name": "Holguín",
+    "abbr": "HG",
+    "code": "+5324"
+}, {
+    "name": "Granma",
+    "abbr": "GR",
+    "code": "+5323"
+}, {
+    "name": "Santiago de Cuba",
+    "abbr": "SC",
+    "code": "+5322"
+}, {
+    "name": "Guantánamo",
+    "abbr": "GU",
+    "code": "+5321"
+}, {
+    "name": "Isla de la Juventud",
+    "abbr": "IJ",
+    "code": "+5346"
+}]

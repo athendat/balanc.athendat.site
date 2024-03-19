@@ -1,0 +1,76 @@
+[{
+    "code": "01",
+    "name": "Agricultura, plantaciones u otros sectores rurales"
+}, {
+    "code": "02",
+    "name": "Alimentacion, bebidas y tabaco"
+}, {
+    "code": "03",
+    "name": "Comercio"
+}, {
+    "code": "04",
+    "name": "Construcción"
+}, {
+    "code": "05",
+    "name": "Educación"
+}, {
+    "code": "06",
+    "name": "Fabricacón de material de transporte"
+}, {
+    "code": "07",
+    "name": "Función pública"
+}, {
+    "code": "08",
+    "name": "Hostelería, restauración y turismo"
+}, {
+    "code": "09",
+    "name": "Industria química"
+}, {
+    "code": "10",
+    "name": "Ingeniería mecánica y eléctrica"
+}, {
+    "code": "11",
+    "name": "Medios de comunicación"
+}, {
+    "code": "12",
+    "name": "Minería"
+}, {
+    "code": "13",
+    "name": "Petróleo, producción de gas y refinación de petróleo"
+}, {
+    "code": "14",
+    "name": "Producción de metales básicos"
+}, {
+    "code": "15",
+    "name": "Servicios de correos y de telecomunicaciones"
+}, {
+    "code": "16",
+    "name": "Servicios de salud"
+}, {
+    "code": "17",
+    "name": "Servicios financieros y servicios profesionales"
+}, {
+    "code": "18",
+    "name": "Servicios públicos (agua, gas y electricidad)"
+}, {
+    "code": "19",
+    "name": "Silvicultura, madera, celulosa y papel"
+}, {
+    "code": "20",
+    "name": "Textiles, vestidos, cuero y calzado"
+}, {
+    "code": "21",
+    "name": "Transporte (incluyendo aviación civil, ferrocarriles y transporte por carretera)"
+}, {
+    "code": "22",
+    "name": "Transporte marítimo, puertos, pesca y transporte interior"
+}, {
+    "code": "23",
+    "name": "Servicios de belleza y cuidado personal"
+}, {
+    "code": "24",
+    "name": "Artes plásticas"
+}, {
+    "code": "25",
+    "name": "Servicios audiovisuales"
+}]
