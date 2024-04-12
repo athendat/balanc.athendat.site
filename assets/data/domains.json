@@ -1,76 +1,178 @@
-[{
-    "code": "01",
-    "name": "Agricultura, plantaciones u otros sectores rurales"
-}, {
-    "code": "02",
-    "name": "Alimentacion, bebidas y tabaco"
-}, {
-    "code": "03",
-    "name": "Comercio"
-}, {
-    "code": "04",
-    "name": "Construcción"
-}, {
-    "code": "05",
-    "name": "Educación"
-}, {
-    "code": "06",
-    "name": "Fabricacón de material de transporte"
-}, {
-    "code": "07",
-    "name": "Función pública"
-}, {
-    "code": "08",
-    "name": "Hostelería, restauración y turismo"
-}, {
-    "code": "09",
-    "name": "Industria química"
-}, {
-    "code": "10",
-    "name": "Ingeniería mecánica y eléctrica"
-}, {
-    "code": "11",
-    "name": "Medios de comunicación"
-}, {
-    "code": "12",
-    "name": "Minería"
-}, {
-    "code": "13",
-    "name": "Petróleo, producción de gas y refinación de petróleo"
-}, {
-    "code": "14",
-    "name": "Producción de metales básicos"
-}, {
-    "code": "15",
-    "name": "Servicios de correos y de telecomunicaciones"
-}, {
-    "code": "16",
-    "name": "Servicios de salud"
-}, {
-    "code": "17",
-    "name": "Servicios financieros y servicios profesionales"
-}, {
-    "code": "18",
-    "name": "Servicios públicos (agua, gas y electricidad)"
-}, {
-    "code": "19",
-    "name": "Silvicultura, madera, celulosa y papel"
-}, {
-    "code": "20",
-    "name": "Textiles, vestidos, cuero y calzado"
-}, {
-    "code": "21",
-    "name": "Transporte (incluyendo aviación civil, ferrocarriles y transporte por carretera)"
-}, {
-    "code": "22",
-    "name": "Transporte marítimo, puertos, pesca y transporte interior"
-}, {
-    "code": "23",
-    "name": "Servicios de belleza y cuidado personal"
-}, {
-    "code": "24",
-    "name": "Artes plásticas"
-}, {
-    "code": "25",
-    "name": "Servicios audiovisuales"
-}]
+[
+    {
+        "code": "01",
+        "name": "Agricultura, Plantaciones u Otros Sectores Rurales"
+    },
+    {
+        "code": "02",
+        "name": "Alimentos, Bebidas y Tabaco"
+    },
+    {
+        "code": "03",
+        "name": "Comercio"
+    },
+    {
+        "code": "04",
+        "name": "Construcción"
+    },
+    {
+        "code": "05",
+        "name": "Educación"
+    },
+    {
+        "code": "06",
+        "name": "Fabricación de Equipos de Transporte"
+    },
+    {
+        "code": "07",
+        "name": "Servicio Público"
+    },
+    {
+        "code": "08",
+        "name": "Hospitalidad, Restaurantes y Turismo"
+    },
+    {
+        "code": "09",
+        "name": "Industria Química"
+    },
+    {
+        "code": "10",
+        "name": "Ingeniería Mecánica y Eléctrica"
+    },
+    {
+        "code": "11",
+        "name": "Medios de Comunicación"
+    },
+    {
+        "code": "12",
+        "name": "Minería"
+    },
+    {
+        "code": "13",
+        "name": "Producción de Petróleo, Gas y Refinación de Petróleo"
+    },
+    {
+        "code": "14",
+        "name": "Producción de Metales Básicos"
+    },
+    {
+        "code": "15",
+        "name": "Servicios Postales y de Telecomunicaciones"
+    },
+    {
+        "code": "16",
+        "name": "Servicios de Atención Médica"
+    },
+    {
+        "code": "17",
+        "name": "Servicios Financieros y Servicios Profesionales"
+    },
+    {
+        "code": "18",
+        "name": "Servicios Públicos (Agua, Gas y Electricidad)"
+    },
+    {
+        "code": "19",
+        "name": "Silvicultura, Madera, Pulpa y Papel"
+    },
+    {
+        "code": "20",
+        "name": "Textiles, Ropa, Cuero y Calzado"
+    },
+    {
+        "code": "21",
+        "name": "Transporte (incluyendo Aviación Civil, Ferrocarriles y Transporte por Carretera)"
+    },
+    {
+        "code": "22",
+        "name": "Transporte Marítimo, Puertos, Pesca y Transporte Interior"
+    },
+    {
+        "code": "23",
+        "name": "Servicios de Belleza y Cuidado Personal"
+    },
+    {
+        "code": "24",
+        "name": "Artes Visuales"
+    },
+    {
+        "code": "25",
+        "name": "Servicios Audiovisuales"
+    },
+    {
+        "code": "26",
+        "name": "Agricultura y Agroindustria"
+    },
+    {
+        "code": "27",
+        "name": "Alimentos y Bebidas"
+    },
+    {
+        "code": "28",
+        "name": "Automotriz"
+    },
+    {
+        "code": "29",
+        "name": "Bienes Raíces"
+    },
+    {
+        "code": "30",
+        "name": "Comercio Minorista"
+    },
+    {
+        "code": "31",
+        "name": "Construcción y Arquitectura"
+    },
+    {
+        "code": "32",
+        "name": "Educación y Capacitación"
+    },
+    {
+        "code": "33",
+        "name": "Energía y Medio Ambiente"
+    },
+    {
+        "code": "34",
+        "name": "Entretenimiento y Eventos"
+    },
+    {
+        "code": "35",
+        "name": "Servicios Financieros y Bancarios"
+    },
+    {
+        "code": "36",
+        "name": "Salud, Belleza y Cuidado Personal"
+    },
+    {
+        "code": "37",
+        "name": "Industria Manufacturera"
+    },
+    {
+        "code": "38",
+        "name": "Tecnología de la Información"
+    },
+    {
+        "code": "39",
+        "name": "Medios y Publicidad"
+    },
+    {
+        "code": "40",
+        "name": "Moda y Textiles"
+    },
+    {
+        "code": "41",
+        "name": "Servicios Profesionales (Abogados, Contadores, Consultores, etc.)"
+    },
+    {
+        "code": "42",
+        "name": "Telecomunicaciones"
+    },
+    {
+        "code": "43",
+        "name": "Transporte y Logística"
+    },
+    {
+        "code": "44",
+        "name": "Turismo y Hospitalidad"
+    }
+]
